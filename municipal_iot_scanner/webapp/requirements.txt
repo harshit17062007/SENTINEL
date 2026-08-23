@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-qdrant
+langchain-text-splitters
+qdrant-client
+pypdf
+beautifulsoup4
+agno
+ollama
+openai
+exa_py
+torch
+tiktoken
